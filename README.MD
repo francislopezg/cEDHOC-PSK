@@ -1,4 +1,4 @@
-# EDHOC-PSK 
+# cEDHOC-PSK 
 
 This repository contains a C implementation of EDHOC (RFC 9528), based on uOSCORE-uEDHOC 3.0.5, which includes the EDHOC-PSK authentication method (method 4) as described in https://datatracker.ietf.org/doc/draft-ietf-lake-edhoc-psk/. Additionally, it is also included a Dockerized scenario for testing purposes.
 
